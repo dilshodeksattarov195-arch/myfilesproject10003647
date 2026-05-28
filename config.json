@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productprocess",
+        "uuid": 2049614,
+        "checksum": "7de3z8"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
